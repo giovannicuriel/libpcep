@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Automake and autoconf files
+*.m4
+config.h.in
+*.log
+config.status
+configure
+depcomp
+install-sh
+Makefile
+*.in
+missing
+stamp-h1
+autom4te.cache
+config.h
+.deps/
