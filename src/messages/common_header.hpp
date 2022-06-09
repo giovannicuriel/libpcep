@@ -27,6 +27,7 @@ enum Version {
 /**
  * Values for Message-Type field in CommonHeader.
  * @see https://tools.ietf.org/html/rfc5440#section-6.1
+ * @see https://tools.ietf.org/html/rfc5440#section-9.2
  */
 enum MessageType {
   MSG_TYPE_OPEN = 1,
